@@ -1,0 +1,2 @@
+Start Time	End Time	Transportation Mode
+2008/05/30 12:11:16	2008/05/30 12:49:49	bus
